@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "product_detail": {
+      "category": "Electronics",
+      "name": "Ipad"
+    },
+    "price_data": {
+      "price": 900,
+      "salesPrice": 500
+    }
+  },
+  {
+    "id": 2,
+    "product_detail": {
+      "category": "Clothing",
+      "name": "T-Shirt"
+    },
+    "price_data": {
+      "price": 20,
+      "salesPrice": 15
+    }
+  },
+  {
+    "id": 3,
+    "product_detail": {
+      "category": "Electronics",
+      "name": "The Great Gatsby"
+    },
+    "price_data": {
+      "price": 10,
+      "salesPrice": 8
+    }
+  },
+  {
+    "id": 4,
+    "product_detail": {
+      "category": "Home & Kitchen",
+      "name": "Coffee Maker"
+    },
+    "price_data": {
+      "price": 50,
+      "salesPrice": 40
+    }
+  },
+  {
+    "id": 5,
+    "product_detail": {
+      "category": "Toys",
+      "name": "LEGO Set"
+    },
+    "price_data": {
+      "price": 60,
+      "salesPrice": 45
+    }
+  }
+]
